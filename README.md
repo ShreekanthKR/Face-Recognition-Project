@@ -16,12 +16,6 @@ Ensure you have Python installed. Then, install the required dependencies:
 pip install opencv-python numpy face_recognition
 
 
-### Clone the Repository
-
-git clone https://github.com/yourusername/face-recognition-attendance.git
-cd face-recognition-attendance
-
-
 ### Run the Script
 python attendance_system.py
 
